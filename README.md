@@ -22,7 +22,7 @@ Now once you're in normal mode, you can enter commands using the slash key, the 
 ## Installation
 To install BTE, enter your terminal, and type these commands:
 
-(if you haven't already, install git by using `sudo apt install git`)
+(if you haven't already, install git by using `sudo apt install git`, `sudo dnf install git` or `sudo pacman -S git`, and then do `git --version` to verify it's installed)
 
 `git clone https://www.github.com/gfsorg/bte.git`
 
