@@ -19,7 +19,7 @@ Now once you're in normal mode, you can enter commands using the slash key, the 
 /qsa (to save as and then exit)
 /edit (to enter insert mode)
 
-### Installation
+## Installation
 To install BTE, enter your terminal, and type these commands:
 
 (if you haven't already, install git by using sudo apt install git)
