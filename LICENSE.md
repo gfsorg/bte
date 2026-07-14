@@ -1,6 +1,6 @@
 # Free Generic License (FGL) v1.0
 
-**Copyright © [YEAR] [COPYRIGHT HOLDER]**
+**Copyright © 2026 GFSO**
 
 ## 1. Purpose
 
