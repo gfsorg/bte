@@ -22,12 +22,12 @@ Now once you're in normal mode, you can enter commands using the slash key, the 
 ## Installation
 To install BTE, enter your terminal, and type these commands:
 
-(if you haven't already, install git by using sudo apt install git)
+(if you haven't already, install git by using `sudo apt install git`)
 
-git clone https://www.github.com/gfsorg/bte.git
+`git clone https://www.github.com/gfsorg/bte.git`
 
 after you've cloned the repo, run:
 
-cd bte && chmod +x install.sh && ./install.sh
+`cd bte && chmod +x install.sh && ./install.sh`
 
 that's it! You can now run bte by running bte/bte filename
